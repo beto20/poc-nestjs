@@ -1,4 +1,4 @@
-## Description
+## descripcion
 Proyecto CRUD de mascotas, productos y paises con seguridad de recursos.
 
 Se empleo: NestJS, TypeScript, Prisma, JWT
